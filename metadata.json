@@ -1,0 +1,6 @@
+{
+  "name": "PCEA FOUNTAIN GATE",
+  "description": "A complete Church Management System with a beautiful, modern public website, role-based member portal, and powerful admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
