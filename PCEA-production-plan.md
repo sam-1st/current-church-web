@@ -1,4 +1,4 @@
-# PCEA Kandengwa — Demo → Production Migration Plan
+# PCEA Fountain Gate — Demo → Production Migration Plan
 
 **Current state:** React 19 + Vite SPA, all data in `localStorage`, fake email-only "auth," simulated giving.
 **Target state:** Full-stack Church Management System with real database, real auth, real deployment. M-Pesa giving deferred to a later phase.
